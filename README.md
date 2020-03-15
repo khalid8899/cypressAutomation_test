@@ -4,7 +4,7 @@
  1)set NODE_HOME Environment  variable. Go to Advanced system setting ->Environment variables
   Click on new under system variables and set variable name as "NODE_HOME" and value to "C:\Program Files\nodejs" click on ok 
 
- 2)Downoad VS Code 
+ 2)Download VS Code 
 
  3)Extract the project from git and open in vs code 
 
