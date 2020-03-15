@@ -1,4 +1,16 @@
 # cypressAutomation_test
- 1)Do npm install to install node module libraries
- 2)Run this command in terminal ./node_modules/.bin/cypress open  
- 3)Cypress will open and click on Test1insider.js file inside TestCase_Insider folder Browser will launch and execution will start.On left hand side all steps details will be displayed(my first test) and on right hand side actual execution will start.
+ prerequisite:Download Node (https://nodejs.org/en/download/) (.msi file 64bit)
+
+ 1)set NODE_HOME Environment  variable. Go to Advanced system setting ->Environment variables
+  Click on new under system variables and set variable name as "NODE_HOME" and value to "C:\Program Files\nodejs" click on ok 
+
+ 2)Downoad VS Code 
+
+ 3)Extract the project from git and open in vs code 
+
+ 4)Open terminal in vs code and go to path -> C:\CypressAutomation and run the following command
+   npm install cypress --save-dev   
+
+ 5)Run this command in terminal ./node_modules/.bin/cypress open  
+ 
+ 6)Cypress will open and click on Test1insider.js file inside TestCase_Insider folder Browser will launch and execution will start.On left hand side all steps details will be displayed(my first test) and on right hand side actual execution will start.
