@@ -6,7 +6,7 @@
  1)Set NODE_HOME Environment  variable. Go to Advanced system setting ->Environment variables
   Click on new under system variables and set variable name as "NODE_HOME" and value to "C:\Program Files\nodejs" click on ok 
 
- 2)Extract the project from git and open in vs code
+ 2)Download or clone the project from GitHub link(https://github.com/khalid8899/cypressAutomation_test.git) and open in vs code
 
  3)Run command npm install cypress in the cloned folder(cypressAutomation_test-master)
 
